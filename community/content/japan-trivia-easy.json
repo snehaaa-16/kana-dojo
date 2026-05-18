@@ -185,6 +185,17 @@
     "Arctic Ocean"
   ],
   "correctIndex": 2
+  },
+  {
+  "question": "Which Japanese train is famous for its high-speed travel?",
+  "difficulty": "easy",
+  "answers": [
+    "Shinkansen",
+    "Yamanote",
+    "Keikyu",
+    "Monorail"
+  ],
+  "correctIndex": 0
   }
 ]
 {
